@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Luxurious Beachfront Villa",
+    "segment_name": "Luxury",
+    "titles": "Villa",
+    "description": "Experience unparalleled luxury with this stunning beachfront villa featuring breathtaking ocean views and exquisite design. This magnificent villa offers 5 bedrooms, 6 bathrooms, and 10 spacious rooms in total. It spans over 4,500 square feet of living space and includes luxurious amenities such as an infinity pool, private beach access, gourmet kitchen, and spa. Located in Malibu, California, this villa provides the perfect blend of comfort and elegance.",
+    "price": "$5,000,000",
+    "status": "Sale",
+    "area": "4,500 sq ft",
+    "location": "Malibu, California",
+    "facilities": [
+      "Infinity Pool",
+      "Private Beach Access",
+      "Gourmet Kitchen",
+      "Spa"
+    ],
+    "image": "https://shorturl.at/kvxy2",
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "rooms": 10
+  },
+  {
+    "id": 2,
+    "estate_title": "Penthouse in the Sky",
+    "segment_name": "Luxury",
+    "titles": "Penthouse",
+    "description": "Live the high life in this luxurious penthouse boasting panoramic city views and top-of-the-line amenities. This elegant penthouse features 3 bedrooms, 4 bathrooms, and 6 rooms in total, spread across 3,000 square feet of living space. Situated in New York City, New York, it offers a sophisticated lifestyle with amenities like floor-to-ceiling windows, private terrace, home theater, and 24/7 concierge.",
+    "price": "$3,500,000",
+    "status": "Sale",
+    "area": "3,000 sq ft",
+    "location": "New York City, New York",
+    "facilities": [
+      "Floor-to-Ceiling Windows",
+      "Private Terrace",
+      "Home Theater",
+      "24/7 Concierge"
+    ],
+    "image": "https://media.architecturaldigest.com/photos/5db8a842a0705e0008bfad9e/16:9/w_2560%2Cc_limit/26962MalibuCoveColony019.jpg",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "rooms": 6
+  },
+  {
+    "id": 3,
+    "estate_title": "Mountain Retreat",
+    "segment_name": "Luxury",
+    "titles": "Retreat",
+    "description": "Escape to this secluded mountain retreat surrounded by nature's beauty, offering peace and tranquility. This charming retreat comprises 4 bedrooms, 3 bathrooms, and 7 rooms in total, set on 6 acres of picturesque land in Aspen, Colorado. It features outdoor hot tub, hiking trails, guest cabin, and home gym, providing the ultimate sanctuary away from the hustle and bustle of city life.",
+    "price": "$2,200,000",
+    "status": "Sale",
+    "area": "6 acres",
+    "location": "Aspen, Colorado",
+    "facilities": [
+      "Outdoor Hot Tub",
+      "Hiking Trails",
+      "Guest Cabin",
+      "Home Gym"
+    ],
+    "image": "https://mms.businesswire.com/media/20231006804183/en/1909409/5/Pagosa_MainRes-EvePR.jpg?download=1",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "rooms": 7
+  },
+  {
+    "id": 4,
+    "estate_title": "Spectacular Lakefront Mansion",
+    "segment_name": "Luxury",
+    "titles": "Mansion",
+    "description": "Indulge in luxury living with this magnificent lakefront mansion boasting stunning water views and opulent amenities. This grand mansion offers 6 bedrooms, 8 bathrooms, and 12 rooms in total, sprawled across 8,000 square feet of living space overlooking Lake Tahoe, Nevada. It includes amenities like boat dock, home theater, wine cellar, and fitness center, providing the epitome of lakeside luxury living.",
+    "price": "$7,800,000",
+    "status": "Sale",
+    "area": "8,000 sq ft",
+    "location": "Lake Tahoe, Nevada",
+    "facilities": [
+      "Boat Dock",
+      "Home Theater",
+      "Wine Cellar",
+      "Fitness Center"
+    ],
+    "image": "https://img.freepik.com/free-photo/beautiful-shot-country-estate-with-swan-lake-surrounded-by-green-scenery_181624-8343.jpg?ga=GA1.1.241454234.1710510729&",
+    "bedrooms": 6,
+    "bathrooms": 8,
+    "rooms": 12
+  },
+  {
+    "id": 5,
+    "estate_title": "Exclusive Island Retreat",
+    "segment_name": "Luxury",
+    "titles": "Island Retreat",
+    "description": "Own your private paradise with this exclusive island retreat featuring pristine beaches and lush tropical landscapes. This luxurious retreat boasts 8 bedrooms, 10 bathrooms, and 15 rooms in total, spread over 10 acres of idyllic land in Fiji. It offers amenities like beachfront cabanas, infinity pool, helipad, and spa pavilion, ensuring an unparalleled island living experience.",
+    "price": "$12,000,000",
+    "status": "Sale",
+    "area": "10 acres",
+    "location": "Fiji",
+    "facilities": [
+      "Beachfront Cabanas",
+      "Infinity Pool",
+      "Helipad",
+      "Spa Pavilion"
+    ],
+    "image": "https://media.cntraveler.com/photos/5c742ca4b36948415881d9e8/16:9/w_2560%2Cc_limit/Laucala-Island_2019_Laucala_peninsula_villa_aerial5.jpg",
+    "bedrooms": 8,
+    "bathrooms": 10,
+    "rooms": 15
+  },
+  {
+    "id": 6,
+    "estate_title": "Chic Urban Loft",
+    "segment_name": "Luxury",
+    "titles": "Urban Loft",
+    "description": "Immerse yourself in urban sophistication with this chic loft boasting modern design and city skyline views. This stylish loft features 2 bedrooms, 1 bathroom, and 3 rooms in total, spanning 1,800 square feet of living space in San Francisco, California. It offers amenities like open floor plan, high ceilings, designer kitchen, and private balcony, providing a perfect blend of comfort and style.",
+    "price": "$1,200,000",
+    "status": "Rent",
+    "area": "1,800 sq ft",
+    "location": "San Francisco, California",
+    "facilities": [
+      "Open Floor Plan",
+      "High Ceilings",
+      "Designer Kitchen",
+      "Private Balcony"
+    ],
+    "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2023/5/10/2/HUHH2023_Downtown-Dwellings_San-Fran-Guy-Place-08.jpg.rend.hgtvcom.616.411.suffix/1683738079177.jpeg",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "rooms": 3
+  },
+  {
+    "id": 7,
+    "estate_title": "Majestic Countryside Estate",
+    "segment_name": "Luxury",
+    "titles": "Countryside Estate",
+    "description": "Escape to the countryside with this majestic estate offering sprawling grounds and timeless elegance. This stunning estate boasts 7 bedrooms, 8 bathrooms, and 14 rooms in total, situated on 15 acres of picturesque land in Provence, France. It features amenities like vineyard, guest house, tennis court, and equestrian facilities, providing the perfect retreat for those seeking tranquility and luxury.",
+    "price": "$4,500,000",
+    "status": "Sale",
+    "area": "15 acres",
+    "location": "Provence, France",
+    "facilities": [
+      "Vineyard",
+      "Guest House",
+      "Tennis Court",
+      "Equestrian Facilities"
+    ],
+    "image": "https://i0.wp.com/theoaksestate.com/wp-content/uploads/2019/02/print_43.jpg?resize=1120%2C629&ssl=1",
+    "bedrooms": 7,
+    "bathrooms": 8,
+    "rooms": 14
+  },
+  {
+    "id": 8,
+    "estate_title": "Glamorous Hollywood Hills Mansion",
+    "segment_name": "Luxury",
+    "titles": "Hollywood Hills Mansion",
+    "description": "Live like a celebrity in this glamorous mansion nestled in the iconic Hollywood Hills with panoramic city views. This lavish mansion offers 6 bedrooms, 7 bathrooms, and 12 rooms in total, spread over 6,500 square feet of living space in Los Angeles, California. It boasts amenities like home theater, infinity pool, outdoor kitchen, and wine cellar, providing the epitome of luxury living in the heart of Hollywood.",
+    "price": "$9,500,000",
+    "status": "Sale",
+    "area": "6,500 sq ft",
+    "location": "Los Angeles, California",
+    "facilities": [
+      "Home Theater",
+      "Infinity Pool",
+      "Outdoor Kitchen",
+      "Wine Cellar"
+    ],
+    "image": "https://ssl.cdn-redfin.com/photo/40/mbphoto/101/genMid.24-351101_1.jpg",
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "rooms": 12
+  }
+]

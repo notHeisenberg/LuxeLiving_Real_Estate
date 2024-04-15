@@ -1,8 +1,15 @@
-import { Outlet } from "react-router-dom"
+import { Outlet, useLocation } from "react-router-dom"
 import { StickyNavbar } from "../Pages/Shared/StickyNavbar";
 import Footer from "../Pages/Shared/Footer";
 
 const Root = () => {
+    const location = useLocation()
+    if (location.pathname !== '/') {
+        document.title = `LuxeLiving - ${location.pathname.replace('/', '')}`
+    } else {
+        document.title = `LuxeLiving`
+    }
+
     return (
         <div>
             <StickyNavbar></StickyNavbar>

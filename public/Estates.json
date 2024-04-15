@@ -48,7 +48,7 @@
     "titles": "Retreat",
     "description": "Escape to this secluded mountain retreat surrounded by nature's beauty, offering peace and tranquility. This charming retreat comprises 4 bedrooms, 3 bathrooms, and 7 rooms in total, set on 6 acres of picturesque land in Aspen, Colorado. It features outdoor hot tub, hiking trails, guest cabin, and home gym, providing the ultimate sanctuary away from the hustle and bustle of city life.",
     "price": "$2,200,000",
-    "status": "Sale",
+    "status": "Rent",
     "area": "6 acres",
     "location": "Aspen, Colorado",
     "facilities": [
@@ -90,7 +90,7 @@
     "titles": "Island Retreat",
     "description": "Own your private paradise with this exclusive island retreat featuring pristine beaches and lush tropical landscapes. This luxurious retreat boasts 8 bedrooms, 10 bathrooms, and 15 rooms in total, spread over 10 acres of idyllic land in Fiji. It offers amenities like beachfront cabanas, infinity pool, helipad, and spa pavilion, ensuring an unparalleled island living experience.",
     "price": "$12,000,000",
-    "status": "Sale",
+    "status": "Rent",
     "area": "10 acres",
     "location": "Fiji",
     "facilities": [

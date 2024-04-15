@@ -52,7 +52,8 @@ export function StickyNavbar() {
                         <span className="loading loading-dots w-20 text-info"></span>
                     </div>
                     :
-                    <div className="navbar h-[90px] sticky shadow-lg">
+                    <div className="navbar h-[90px] sticky shadow-lg"
+                    >
                         <div className="navbar-start">
                             <div className="dropdown dropdown-hover">
                                 <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

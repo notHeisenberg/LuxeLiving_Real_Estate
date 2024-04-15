@@ -1,11 +1,16 @@
-
+import teamUp from "../../assets/undraw_Team_up_re_84ok.png"
+import join from "../../assets/undraw_Join_re_w1lh.png"
 
 const OurGoals = () => {
     return (
-        <div className="container mx-auto p-2 flex mt-10 gap-4">
+        <div className="container mx-auto p-2 flex mt-10 gap-10">
             <div className="w-1/2" >
                 <h1 className="text-blue-400 font-bold text-md " >OUR GOAL</h1>
                 <p className="text-4xl md:text-5xl font-bold opacity-80 " >We are dedicated to finding a Estate that you'll love.</p>
+                <div className="flex flex-col md:flex-row ">
+                    <img className="w-52" src={teamUp} alt="" />
+                    <img className="w-52" src={join} alt="" />
+                </div>
             </div>
 
             <div className="w-1/2 space-y-3 " >

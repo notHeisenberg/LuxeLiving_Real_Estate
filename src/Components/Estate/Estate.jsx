@@ -14,7 +14,7 @@ import { useEffect } from "react";
 
 const Estate = ({ item }) => {
 
-    const { estate_title, segment_name, bedrooms, bathrooms, rooms, price, status, area, location, facilities, image } = item || {}
+    const { estate_title, segment_name, titles, bedrooms, bathrooms, rooms, price, status, area, location, facilities, image } = item || {}
     console.log(item)
 
     useEffect(() => {
@@ -49,7 +49,7 @@ const Estate = ({ item }) => {
                 </Card>
                 <CardBody className="p-4">
                     <div className="space-y-1 mb-4 text-center">
-                        <Typography variant="h6" className="opacity-70">{segment_name}</Typography>
+                        <Typography variant="h6" className="opacity-70">{segment_name} {titles} </Typography>
                         <Typography variant="h4" className="font-semibold">{estate_title}</Typography>
                     </div>
 

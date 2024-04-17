@@ -2,8 +2,8 @@
 
 import Banner from '../../Components/Banner/Banner';
 import Estates from '../../Components/Estates/Estates';
-import Maplocation from '../../Components/MapLocation/Maplocation';
 import OurGoals from '../../Components/OurGoals/OurGoals';
+import SIgnTonewsletter from '../../Components/SignToNewslletter/SIgnTonewsletter';
 import Sliders from '../../Components/Sliders/Sliders';
 
 
@@ -14,7 +14,7 @@ const Home = () => {
             <Sliders></Sliders>
             <OurGoals></OurGoals>
             <Estates></Estates>
-            {/* <Maplocation></Maplocation> */}
+            <SIgnTonewsletter></SIgnTonewsletter>
         </>
     );
 };

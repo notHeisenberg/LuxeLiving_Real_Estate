@@ -3,6 +3,7 @@ import FancyText from '@carefully-coded/react-text-gradient';
 import coolBackground from "../../../src/assets/cool-background.png"
 import 'animate.css';
 
+
 const LINKS = [
     {
         title: "Product",
@@ -20,6 +21,8 @@ const LINKS = [
 const currentYear = new Date().getFullYear()
 
 const Footer = () => {
+
+
     return (
         <footer
             className=" mt-10 w-full bg-slate-200"
@@ -117,6 +120,8 @@ const Footer = () => {
 
                 </div>
             </div>
+            <canvas className="background"></canvas>
+            <script src="path/to/particles.min.js"></script>
         </footer>
     );
 };

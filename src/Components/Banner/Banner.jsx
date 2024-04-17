@@ -1,4 +1,4 @@
-
+import 'animate.css';
 
 const Banner = () => {
 
@@ -13,7 +13,7 @@ const Banner = () => {
             <div className="hero-overlay bg-opacity-60"></div>
             <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                    <h1 className="mb-5 text-5xl text-sky-400 opacity-90 font-bold">Welcome To LuxeLiving</h1>
+                    <h1 className="animate__animated animate-pulse mb-5 text-5xl text-sky-400 opacity-90 font-bold">Welcome To LuxeLiving</h1>
                     <h1 className="mb-5 text-3xl font-light">Your Gateway to Extraordinary Real Estate</h1>
                     <button onClick={scrollToEstates} className="btn btn-primary">Get Started</button>
                 </div>

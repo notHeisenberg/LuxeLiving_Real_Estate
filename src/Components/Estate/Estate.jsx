@@ -26,7 +26,7 @@ const Estate = ({ item }) => {
 
             <Card
                 item={item}
-                className={` h-[670px] container mx-auto mt-10  overflow-hidden cursor-pointer border hover:drop-shadow-sm`}
+                className={` h-[670px] container mx-auto mt-10  overflow-hidden  border hover:drop-shadow-sm`}
             >
                 <Card
                     floated={false}

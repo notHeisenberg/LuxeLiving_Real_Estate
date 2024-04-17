@@ -3,6 +3,7 @@ import FancyText from '@carefully-coded/react-text-gradient';
 import { useContext } from "react";
 import { AuthContext } from "../../Components/Provider/AuthProvider";
 import { Avatar, Tooltip } from "@material-tailwind/react";
+import 'animate.css';
 
 export function StickyNavbar() {
 
@@ -52,7 +53,7 @@ export function StickyNavbar() {
                         <span className="loading loading-dots w-20 text-info"></span>
                     </div>
                     :
-                    <div className="navbar h-[90px] sticky shadow-lg"
+                    <div className="navbar h-[90px] sticky top-0 z-10 shadow-lg bg-slate-200"
                     >
                         <div className="navbar-start">
                             <div className="dropdown dropdown-hover">
@@ -68,7 +69,7 @@ export function StickyNavbar() {
                                     gradient={{ from: '#4A00FF', to: '#00D7C0', type: 'linear' }}
                                     animate
                                     animateDuration={500}
-                                    className="text-2xl mr-4 h-20 p-5 lg:h-auto cursor-pointer  font-bold btn btn-ghost"
+                                    className="animate__animated animate__zoomInRight text-2xl mr-4 h-20 p-5 lg:h-auto cursor-pointer  font-bold btn btn-ghost"
                                 >
                                     LuxeLiving
                                 </FancyText>

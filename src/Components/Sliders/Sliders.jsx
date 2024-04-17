@@ -68,7 +68,7 @@ const Sliders = () => {
                                 </div>
                             </div>
 
-                            <Link to={`/`}>
+                            <Link to={`/estate-details/${estate.id}`}>
 
                                 <img className='h-full hover:cursor-pointer' src={estate.image} />
                             </Link>

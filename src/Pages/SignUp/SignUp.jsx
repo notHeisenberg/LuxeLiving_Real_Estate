@@ -61,7 +61,7 @@ const SignUp = () => {
                         displayName: name,
                         photoURL: photoURL
                     })
-                sendEmailVerification(result.user)
+                // sendEmailVerification(result.user)
                 // .then(toast.success("Verification email sent"))
             })
 

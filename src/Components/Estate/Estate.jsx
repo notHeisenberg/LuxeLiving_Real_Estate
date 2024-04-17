@@ -15,7 +15,7 @@ import { useEffect } from "react";
 const Estate = ({ item }) => {
 
     const { estate_title, segment_name, titles, bedrooms, bathrooms, rooms, price, status, area, location, facilities, image } = item || {}
-    console.log(item)
+    // console.log(item)
 
     useEffect(() => {
         Aos.init({ duration: 2000 })

@@ -22,7 +22,6 @@ The Luxurious Real Estate platform caters to luxury property enthusiasts, high-n
 
 ## Screenshots
 
-![Property Listing](https://i.ibb.co/p2ZxFnT/luxe-living-netlify-app-1024x-FULLdesktop-fa4880.png)
 
 
 ## 🔗 Links

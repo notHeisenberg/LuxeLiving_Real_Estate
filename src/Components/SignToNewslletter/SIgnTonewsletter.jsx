@@ -8,7 +8,7 @@ const SIgnTonewsletter = () => {
                     <h1 className="text-4xl font-bold" >Find a home that <br /> truly suits you</h1>
                     <p>* Discover the perfect home tailored to your unique desires and needs.</p>
                 </div>
-                <div className="w-1/2 md:w-1/4 p-4 bg-gray-300 bg-opacity-60 space-y-2" >
+                <div className="w-1/2 lg:w-1/4 p-4 bg-gray-300 bg-opacity-60 space-y-2" >
 
                     <h1 className="text-2xl">Sign to newsletter</h1>
                     <p>Save your time and easily rent or sell your property with the lowest commission on the real estate market.</p>

@@ -11,6 +11,8 @@ import {
 
 import { ToastContainer } from "react-toastify";
 import { saveTolocalstorage } from "../../utils/localstorage";
+import placeimg from "../../assets/icons8-place-marker.png"
+import priceimg from "../../assets/icons8-price-tag-euro.png"
 
 
 
@@ -82,11 +84,11 @@ const EstateDetails = () => {
                     <div className="flex flex-wrap gap-2 justify-between mt-2 font-medium">
 
                         <div className="flex gap-2 items-center">
-                            <img width="32" height="32" src="/src/assets/icons8-price-tag-euro.gif" alt="price-tag-euro" />
+                            <img width="32" height="32" src={priceimg} alt="price-tag-euro" />
                             <h1>{price}</h1>
                         </div>
                         <div className="flex gap-2 items-center">
-                            <img width="32" height="32" className="bg-none" src="/src/assets/icons8-place-marker.gif" alt="" />
+                            <img width="32" height="32" className="bg-none" src={placeimg} alt="" />
                             <h1>{location}</h1>
                         </div>
                         <div className="flex gap-2 items-center">

@@ -9,6 +9,8 @@ import PropTypes from 'prop-types';
 import Aos from "aos";
 import 'aos/dist/aos.css'
 import { useEffect } from "react";
+import placeimg from "../../assets/icons8-place-marker.png"
+import priceimg from "../../assets/icons8-price-tag-euro.png"
 
 
 
@@ -66,11 +68,11 @@ const Estate = ({ item }) => {
                     <div className="flex flex-wrap justify-between mt-2 font-medium">
 
                         <div className="flex gap-2 items-center">
-                            <img width="32" height="32" src="/src/assets/icons8-price-tag-euro.gif" alt="price-tag-euro" />
+                            <img width="32" height="32" src={priceimg} alt="price-tag-euro" />
                             <h1>{price}</h1>
                         </div>
                         <div className="flex gap-2 items-center">
-                            <img width="32" height="32" className="bg-none" src="/src/assets/icons8-place-marker.gif" alt="" />
+                            <img width="32" height="32" className="bg-none" src={placeimg} alt="" />
                             <h1>{location}</h1>
                         </div>
                         <div className="flex gap-2 items-center">
